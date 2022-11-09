@@ -1,0 +1,17 @@
+C:\Users\kc2us\source\repos\OpenWeatherMap\OpenWeatherMap\obj\Debug\net6.0\OpenWeatherMap.csproj.AssemblyReference.cache
+C:\Users\kc2us\source\repos\OpenWeatherMap\OpenWeatherMap\obj\Debug\net6.0\OpenWeatherMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kc2us\source\repos\OpenWeatherMap\OpenWeatherMap\obj\Debug\net6.0\OpenWeatherMap.AssemblyInfoInputs.cache
+C:\Users\kc2us\source\repos\OpenWeatherMap\OpenWeatherMap\obj\Debug\net6.0\OpenWeatherMap.AssemblyInfo.cs
+C:\Users\kc2us\source\repos\OpenWeatherMap\OpenWeatherMap\obj\Debug\net6.0\OpenWeatherMap.csproj.CoreCompileInputs.cache
+C:\Users\kc2us\source\repos\OpenWeatherMap\OpenWeatherMap\bin\Debug\net6.0\OpenWeatherMap.exe
+C:\Users\kc2us\source\repos\OpenWeatherMap\OpenWeatherMap\bin\Debug\net6.0\OpenWeatherMap.deps.json
+C:\Users\kc2us\source\repos\OpenWeatherMap\OpenWeatherMap\bin\Debug\net6.0\OpenWeatherMap.runtimeconfig.json
+C:\Users\kc2us\source\repos\OpenWeatherMap\OpenWeatherMap\bin\Debug\net6.0\OpenWeatherMap.dll
+C:\Users\kc2us\source\repos\OpenWeatherMap\OpenWeatherMap\bin\Debug\net6.0\OpenWeatherMap.pdb
+C:\Users\kc2us\source\repos\OpenWeatherMap\OpenWeatherMap\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kc2us\source\repos\OpenWeatherMap\OpenWeatherMap\obj\Debug\net6.0\OpenWeatherMap.csproj.CopyComplete
+C:\Users\kc2us\source\repos\OpenWeatherMap\OpenWeatherMap\obj\Debug\net6.0\OpenWeatherMap.dll
+C:\Users\kc2us\source\repos\OpenWeatherMap\OpenWeatherMap\obj\Debug\net6.0\refint\OpenWeatherMap.dll
+C:\Users\kc2us\source\repos\OpenWeatherMap\OpenWeatherMap\obj\Debug\net6.0\OpenWeatherMap.pdb
+C:\Users\kc2us\source\repos\OpenWeatherMap\OpenWeatherMap\obj\Debug\net6.0\OpenWeatherMap.genruntimeconfig.cache
+C:\Users\kc2us\source\repos\OpenWeatherMap\OpenWeatherMap\obj\Debug\net6.0\ref\OpenWeatherMap.dll
