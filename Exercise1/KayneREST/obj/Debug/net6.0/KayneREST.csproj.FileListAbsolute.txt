@@ -1,0 +1,17 @@
+C:\Users\kc2us\source\repos\KayneREST\KayneREST\obj\Debug\net6.0\KayneREST.csproj.AssemblyReference.cache
+C:\Users\kc2us\source\repos\KayneREST\KayneREST\obj\Debug\net6.0\KayneREST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kc2us\source\repos\KayneREST\KayneREST\obj\Debug\net6.0\KayneREST.AssemblyInfoInputs.cache
+C:\Users\kc2us\source\repos\KayneREST\KayneREST\obj\Debug\net6.0\KayneREST.AssemblyInfo.cs
+C:\Users\kc2us\source\repos\KayneREST\KayneREST\obj\Debug\net6.0\KayneREST.csproj.CoreCompileInputs.cache
+C:\Users\kc2us\source\repos\KayneREST\KayneREST\bin\Debug\net6.0\KayneREST.exe
+C:\Users\kc2us\source\repos\KayneREST\KayneREST\bin\Debug\net6.0\KayneREST.deps.json
+C:\Users\kc2us\source\repos\KayneREST\KayneREST\bin\Debug\net6.0\KayneREST.runtimeconfig.json
+C:\Users\kc2us\source\repos\KayneREST\KayneREST\bin\Debug\net6.0\KayneREST.dll
+C:\Users\kc2us\source\repos\KayneREST\KayneREST\bin\Debug\net6.0\KayneREST.pdb
+C:\Users\kc2us\source\repos\KayneREST\KayneREST\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kc2us\source\repos\KayneREST\KayneREST\obj\Debug\net6.0\KayneREST.csproj.CopyComplete
+C:\Users\kc2us\source\repos\KayneREST\KayneREST\obj\Debug\net6.0\KayneREST.dll
+C:\Users\kc2us\source\repos\KayneREST\KayneREST\obj\Debug\net6.0\refint\KayneREST.dll
+C:\Users\kc2us\source\repos\KayneREST\KayneREST\obj\Debug\net6.0\KayneREST.pdb
+C:\Users\kc2us\source\repos\KayneREST\KayneREST\obj\Debug\net6.0\KayneREST.genruntimeconfig.cache
+C:\Users\kc2us\source\repos\KayneREST\KayneREST\obj\Debug\net6.0\ref\KayneREST.dll
